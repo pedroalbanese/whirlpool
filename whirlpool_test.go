@@ -9,7 +9,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/jzelinskie/whirlpool"
+	"github.com/pedroalbanese/whirlpool"
 )
 
 type whirlpoolTest struct {
